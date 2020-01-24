@@ -1,4 +1,4 @@
-10.3.1.4
+### 10.3.1.4
 * Spurning 1
   * Driver details
   * Update driver
@@ -8,3 +8,4 @@
 * Spurning 2
   * Hlaða niður anti-virus
   * Setja Chrome sem deafult browser :)
+### 3.1.2.5
