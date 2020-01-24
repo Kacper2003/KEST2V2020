@@ -16,4 +16,7 @@
   * H97M Pro4 P2.00
 * Spurning 3 
   * Version 2.30 
-  *
+  * Update Haswell CPU Microcode to revision 24 and Broadwell CPU Microcode to revision 1D.
+  * 1.Add ME FW version in BIOS setup.
+    2.Add NVMe support.
+    3.Update NTFS module.
