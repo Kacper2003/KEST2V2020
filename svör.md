@@ -29,7 +29,7 @@
 * Spurning 1 
   * C:\Program Files\Cisco Packet Tracer 7.3.0
 * Reflection questions
-  * Af því að það sér til þess að það sé eitt af windows. 
+  * Af því að það sér til þess að það sé eytt af windows. 
 ### 10.2.1.8
 
     
