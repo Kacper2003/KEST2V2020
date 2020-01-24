@@ -31,5 +31,10 @@
 * Reflection questions
   * Af því að það sér til þess að það sé eytt af windows. 
 ### 10.2.1.8
-
+* Spurning 1
+  * Venjulegt
+  * 1.99 GB
+  * General, Tools, Hardware, Sharing, ReadyBoost, Previous Versions, Customize
+* Spurning 2 
+  * General, Details, Previous Versions
     
