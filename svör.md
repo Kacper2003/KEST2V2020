@@ -10,10 +10,10 @@
   * Setja Chrome sem deafult browser :)
 ### 3.1.2.5
 * Spurning 1 
- * F12 
+  * F12 
 * Spurning 2 
- * ASRock 
- * H97M Pro4 P2.00
+  * ASRock 
+  * H97M Pro4 P2.00
 * Spurning 3 
- * Version 2.30 
- *
+  * Version 2.30 
+  *
