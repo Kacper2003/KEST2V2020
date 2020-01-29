@@ -49,3 +49,11 @@
 * Reflection question 
   * Til þess að sýna hvaða aðgang notanidnn hefur og hvaða leyfi hann hefur
 ### 11.1.2.10
+* Spurning 1 
+  * Google chrome og ruslatunna
+  * Date and time, keyboard language
+* Spurning 2 
+  * Calculator, calender , camera 
+  * Pin to start, more , uninstall
+* Spurning 3
+  * 
