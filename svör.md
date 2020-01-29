@@ -56,4 +56,6 @@
   * Calculator, calender , camera 
   * Pin to start, more , uninstall
 * Spurning 3
+  * Lock taskbar, hide taskbar, small taskbar, show badges on taskbar og taskbar location 
+  * Lock taskbar, hide taskbar, small taskbar, show badges on taskbar og taskbar location 
   * 
