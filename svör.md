@@ -42,4 +42,10 @@
 * Spurning 4 
   * NTFS 
   * Readyboost, Previous versions, Quota, Customize, General, Tools, Hardware, Sharing og Security 
-  * 
+  * Customize
+* Spurning 5 
+  * Readyboost, Previous versions, Quota, Customize, General, Tools, Hardware, Sharing og Security
+  * Readyboost, Quota, Customize, Tools, Hardware, Sharing og Security
+* Reflection question 
+  * Til þess að sýna hvaða aðgang notanidnn hefur og hvaða leyfi hann hefur
+### 11.1.2.10
