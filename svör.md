@@ -37,4 +37,9 @@
   * General, Tools, Hardware, Sharing, ReadyBoost, Previous Versions, Customize
 * Spurning 2 
   * General, Details, Previous Versions
-    
+* Spurning 3 
+  * Þá opnast comand promptið í home directory 
+* Spurning 4 
+  * NTFS 
+  * Readyboost, Previous versions, Quota, Customize, General, Tools, Hardware, Sharing og Security 
+  * 
