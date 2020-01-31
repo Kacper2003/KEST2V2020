@@ -61,5 +61,34 @@
 * Spurning 4
   * f) A brand new app opened 
   * g) Internet status, sound volume, keyboard language, time and date
-  
+### 11.1.3.4
+* Step 1
+  * e) Það slökknaði á net tenglinum 
+  * f) End task, Provide feedback, Rn new task, Always on top og Searh online 
+* Step 2
+  * b) Running og stopped
+  * c) Start, stop, restart, open services, search online, go to details
+* Step 3
+  * a) 1%
+  * a) 1220
+  * a) 135
+  * b) 7700 MB
+  * b) 4300 MB
+  * b) 3300 MB
+  * c) 100/100 Mbps
+  * c) Ethernet
+  * c) 10.11.214.99/24
+* Step 4
+  * b) Það snýr þeim við
+  * c) Það sýnir memory sem er verið að nota í prósentum
+  * c) Ef við vitum ekki hver max capacity er á memoryinu, getum við séð hversu stórt hlutfall er verið að nota
+  * e) Apps, Backround processes, Windows processes
+* Step 5
+  * b) Expand, Disconnect, Manage user accounts
+* Step 6
+  * a) Disable, Open file location, Search online, Properties
+  * b) CPU time, Network, Metered network, Tile updates
+  * c) End task, Provide feedback, End process tree, Set priority, set affnity, Open file location, Search online, Properties
+* Reflection Question 
+  * Því taskmanager getur hjálpað administrator að laga hluti og gefur honum mjög margar upplýsingar.
   
