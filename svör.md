@@ -58,4 +58,8 @@
 * Spurning 3
   * Lock taskbar, hide taskbar, small taskbar, show badges on taskbar og taskbar location 
   * Lock taskbar, hide taskbar, small taskbar, show badges on taskbar og taskbar location 
-  * 
+* Spurning 4
+  * f) A brand new app opened 
+  * g) Internet status, sound volume, keyboard language, time and date
+  
+  
