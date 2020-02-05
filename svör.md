@@ -145,3 +145,13 @@
   * 1. Svo enginn kemst ekki inn á accountið
   * 2. Svo hann breytir eða eyðileggur ekki mikilvæga hluti í tölvunni
   * 3. Til dæmis þegar einhver hættir að vinna fyrir þig/í fyrirtækinu þínu.
+### 11.2.5.8
+  * Step 1
+    * d) 1920 MB
+  * Step 2
+    * b) C:
+    * c) 1879 MB
+  * Step 3
+    * c) I:
+  * Reflection Question
+    * Ef vinnsluminnið er að allocatea moving data hraðar en harði diskurinn ræður við
