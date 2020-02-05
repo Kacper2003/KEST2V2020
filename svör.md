@@ -136,3 +136,12 @@
 * Step 9
   * Ease of Access Center
   * Speech Recognition
+### 11.2.2.3
+* Part 2 
+  * d) Þá geta ekki allir notendur tölvunnar breytt eða eyðilagt mikilvæga hluti í tölvunni.
+* Part 3 
+  * c) Keep Files, til dæmis þegar einhver hættir að vinna fyrir þig en þú vilt eiga það sem hann hefur gert.
+* Reflection Questions 
+  * 1. Svo enginn kemst ekki inn á accountið
+  * 2. Svo hann breytir eða eyðileggur ekki mikilvæga hluti í tölvunni
+  * 3. Til dæmis þegar einhver hættir að vinna fyrir þig/í fyrirtækinu þínu.
