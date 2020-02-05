@@ -91,4 +91,48 @@
   * c) End task, Provide feedback, End process tree, Set priority, set affnity, Open file location, Search online, Properties
 * Reflection Question 
   * Því taskmanager getur hjálpað administrator að laga hluti og gefur honum mjög margar upplýsingar.
-  
+### 11.1.4.11
+* Step 1
+  * e) Folder 2 hvarf því hann var færður yfir í folder 1
+  * g) .txt
+  * h) Hægri smella, copy, hægri smella folder 2, paste.
+  * i) A
+  * j) C:\Users\Kacper og Starri\Desktop\folder1\folder2
+  * l) Ef þú notar möppuna oft og vilt komast hratt í hana
+  * m) Intel, PerfLogs, Program Files, Program Files (x86), Users, Windows
+  * n) Kacper og Starri, Public 
+  * o) Ég gat opnað hann því ég er ownerinn af honum
+  * q) Public Documents, Public Downloads, Public Music, Public Pictures, Public Videos
+* Step 2 
+  * c) Documents, Music, Pictures og Videos
+  * e) Fara í Manage library, velja folder1 og velja remove
+### 11.2.1.5
+* Step 1
+  * b) Category, Large icons, Small icons
+  * c) Programs, User Accounts, Network and Internet og System and Security
+* Step 2 
+  * Security and Maintenance 
+  * Windows Defender Firewall
+* Step 3 
+  * Network and Sharing Center
+* Step 4
+  * AutoPlay
+  * Devices and Printers
+* Step 5
+  * Default Programs 
+  * Programs and Features
+  * Programs and Features
+* Step 6
+  * User Accounts
+  * Credential Manager
+* Step 7 
+  * Taskbar and Navigation 
+  * File Explorer Options
+  * File Explorer Options
+* Step 8
+  * Date and Time
+  * Region
+  * Date and Time
+* Step 9
+  * Ease of Access Center
+  * Speech Recognition
