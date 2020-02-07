@@ -164,3 +164,10 @@
     * d) Search automatically for updated driver software, Browse my computer for driver sofware
     * e) Ef við höfum elstu driver útgáfuna
     * e) Disable device, Uninstall device
+### 11.3.1.11
+
+### 11.3.2.7
+  * Step 1
+    * k) Management Tools/Computer Management/System Tools/Event Viewer
+  * Step 2
+    * c) 3 Decimal tölur
