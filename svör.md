@@ -155,3 +155,12 @@
     * c) I:
   * Reflection Question
     * Ef vinnsluminnið er að allocatea moving data hraðar en harði diskurinn ræður við
+### 11.2.6.2
+  * Step 1  
+    * b) Upplýsingar um hardware tölvunnar
+    * b) Leita af því á netinu og sækja í það þar
+  * Step 2
+    * c) Provider, File Version, Copyright, Digital Signer
+    * d) Search automatically for updated driver software, Browse my computer for driver sofware
+    * e) Ef við höfum elstu driver útgáfuna
+    * e) Disable device, Uninstall device
