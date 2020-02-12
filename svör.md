@@ -165,9 +165,18 @@
     * e) Ef við höfum elstu driver útgáfuna
     * e) Disable device, Uninstall device
 ### 11.3.1.11
-
-### 11.3.2.7
+ * Step 2 
+   * b) Running 
+   * d) Það er ekkert að breytast,hann er ekki running 
+   * f) Security center 
   * Step 1
-    * k) Management Tools/Computer Management/System Tools/Event Viewer
+   * b) OneNote
   * Step 2
-    * c) 3 Decimal tölur
+   * c) Before you can perform printer-related tasks such as page setup or printing a document,you need to install a printer.Do you want         install a printer now ?
+        Til að leysa þetta þá ýtti ég á yes við þessari spurnigu
+  * Step 3 
+   * a) IP Helper, WinHTTP Web Proxy Auto-Discovery Service, Network List Service, Network Location Awereness
+   * b) Af því að við gætum slökk eða hætt að nota eitthvað óvart sem við þurfum til að halda tölvunni gangandi
+* Part 3
+ * Step 2 
+  * c) C:\PerfLogs\DESKTOP-SVG7VQR_20200212-0000001\DataCollecor01.csv
