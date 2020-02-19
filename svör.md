@@ -221,8 +221,8 @@
  
  ### 11.4.1.5 
    * Step 2
-    * c) Það fer niður eitt í einu
-    * d) 
+     * c) Það fer niður eitt í einu
+     * d) 
 
 **Command** | **Function**
 --- | --- 
