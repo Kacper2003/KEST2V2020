@@ -241,8 +241,12 @@ RD |  Removes a directory.
 ROBOCOPY | Advanced utility to copy files and directory trees
 SHUTDOWN |  Allows proper local or remote shutdown of machine.
 XCOPY | Copies files and directory trees.
-        
 
+   * e) Myndi nota MKDIR [drive:]path
+   * svo myndi ég nota MD [drive:]path
+   * f) Notaði CLS 
+   * g) Síðasta sem ég notaði var CLS
+   * h) Síðasta sem ég notaði var CLS
 
 
 
