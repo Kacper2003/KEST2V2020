@@ -182,3 +182,8 @@
   * c) C:\PerfLogs\DESKTOP-SVG7VQR_20200212-0000001\DataCollecor01.csv
  * Step 3 
   * d) "5586", "5586", "5445" og "5446"
+
+### 11.3.2.7
+  * Part 1
+    * Step 2
+      * k) Console Root/Management Tools/Computer Management/System Tools/Event Viewer
