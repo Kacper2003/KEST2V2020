@@ -220,7 +220,7 @@
     * f) Upplýsingar um device tengd við tölvuna
  
  ### 11.4.1.5 
- 	 * Step 2
+   * Step 2
     * c) Það fer niður eitt í einu
     * d) 
 **Command** | **Function**
