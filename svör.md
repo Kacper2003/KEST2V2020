@@ -223,7 +223,8 @@
  	 
    * Step 2
     * c) Það fer niður eitt í einu
-    * d) **Command** | **Function**
+    * d) 
+    **Command** | **Function**
          --- | --- 
          CD |  Displays the name of or changes the current directory. 
          CHKDSK | Checks a disk and displays a status report.
@@ -239,7 +240,7 @@
          ROBOCOPY | Advanced utility to copy files and directory trees
          SHUTDOWN |  Allows proper local or remote shutdown of machine.
          XCOPY | Copies files and directory trees.
-         S
+        
 
 
 
