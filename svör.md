@@ -223,6 +223,7 @@
    * Step 2
     * c) Það fer niður eitt í einu
     * d) 
+
 **Command** | **Function**
 --- | --- 
 CD |  Displays the name of or changes the current directory. 
