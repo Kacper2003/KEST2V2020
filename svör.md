@@ -187,3 +187,15 @@
   * Part 1
     * Step 2
       * k) Console Root/Management Tools/Computer Management/System Tools/Event Viewer
+  * Part 2 
+    * Step 1 
+      * a) Windows mynd
+    * Step 2 
+      * c) 0 99 177
+    * Step 3
+      * d) 0 99 177
+      * i) 232 17 35
+    * Step 4
+      * d) 0 99 177
+      * d) Red
+      * e) Blue
