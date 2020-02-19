@@ -199,3 +199,24 @@
       * d) 0 99 177
       * d) Red
       * e) Blue
+
+### 11.3.2.8
+  * Step 1 
+    * c) Processor	Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz, 3600 Mhz, 2 Core(s), 4 Logical Processor(s)
+    * c) BIOS Version/Date	American Megatrends Inc. P2.00, 7/27/2015
+    * c) Total Physical Memory	7.68 GB
+    * d) Channel 3	/ ECP Printer Port (LPT1), Channel 4	/ Direct memory access controller
+    * e) Adapter Description	Intel(R) HD Graphics 4400
+    * e) Adapter RAM	1.00 GB (1,073,741,824 bytes)
+    * f) Startup Programs
+  * Step 2
+    * b) Normal Startup, Diagnostic Startup, Selective Startup
+    * d) Já 
+    * f) Opnað allskonar tól
+  * Step 3
+    * c) Upplýsingar um kerfið okkar
+    * d) Upplýsingar um skjáinn og allt sem tengist graphics
+    * e) Upplýsingar um hljóðkerfið
+    * f) Upplýsingar um device tengd við tölvuna
+    
+
