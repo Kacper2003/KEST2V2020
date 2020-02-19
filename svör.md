@@ -228,6 +228,7 @@
 --- | --- 
 CD |  Displays the name of or changes the current directory. 
 CHKDSK | Checks a disk and displays a status report.
+COPY | Copies one or more files to another location.
 DEL | Deletes one or more files.
 DIR |  Displays a list of files and subdirectories in a directory
 DISKPART |  Displays or configures Disk Partition properties.
