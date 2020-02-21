@@ -248,8 +248,16 @@ XCOPY | Copies files and directory trees.
    * g) Síðasta sem ég notaði var CLS
    * h) Síðasta sem ég notaði var CLS
 
+ ### 11.4.2.7
+  * Step 2
+   * a) C:\Users\kacpterstarri
+   * e) Við erum í möpunni ITEfolder3
+   * f) Notaði md ITEfolder4 og svo cd ITEfolder4 og svo  md ITEfolder5
+   * h) C:\Users\kacperstarri\ITEfolder4 og directoryin yrði þá C:\Users\kacpterstarri
+  * Reflection question
+   *  Einföld CLI skipun getur auðveldlega aðlagað stillingar fyrir stóran hóp af kerfum í einu.
 
-
+### 11.4.3.2
 
 
 
