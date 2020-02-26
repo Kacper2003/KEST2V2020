@@ -266,6 +266,12 @@ XCOPY | Copies files and directory trees.
 the disk may be locked by another process.
 You have to invoke this utility running in elevated mode
 and make sure the disk is unlocked.
+  * Part 2 
+   * Step 1
+    * c) Það er einn diskur
+   * Step 2 
+    * a) QUERYMAX
+    * b) The maximum number of reclaimable bytes is:  981 MB
 
 
 ### 11.4.4.2
