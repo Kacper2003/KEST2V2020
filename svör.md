@@ -258,7 +258,14 @@ XCOPY | Copies files and directory trees.
    *  Einföld CLI skipun getur auðveldlega aðlagað stillingar fyrir stóran hóp af kerfum í einu.
 
 ### 11.4.3.2
-
+  * Step 1
+   * b) /F 
+   * b) /X 
+   * b) /R
+   * c) Það sem kom var þetta : Access Denied as you do not have sufficient privileges or
+the disk may be locked by another process.
+You have to invoke this utility running in elevated mode
+and make sure the disk is unlocked.
 
 
 ### 11.4.4.2
